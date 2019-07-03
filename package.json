@@ -6,6 +6,7 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
+    "node": "10.3.0"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
